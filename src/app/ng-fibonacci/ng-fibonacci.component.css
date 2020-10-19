@@ -1,0 +1,16 @@
+/* [class*="con"] { */
+.container {
+    padding: 1rem;
+    background-color: antiquewhite;
+    border: 2px solid forestgreen;
+    text-align: center;
+}
+
+[class*="col"] {
+    text-align: center;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}

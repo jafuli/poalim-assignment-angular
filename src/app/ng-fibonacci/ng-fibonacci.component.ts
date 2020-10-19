@@ -33,8 +33,6 @@ export class NgFibonacciComponent implements OnInit {
       console.log(err.error);
       this.value = err.error;
     });
-    // this.input.controls.index.setValue('');
-
   }
 
 
