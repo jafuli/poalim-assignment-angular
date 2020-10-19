@@ -18,3 +18,7 @@ h2 {
     align-items: center;
 }
 
+button, input {
+    margin: 5px;
+}
+

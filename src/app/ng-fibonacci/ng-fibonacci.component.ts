@@ -9,8 +9,8 @@ import { FibServiceService } from '../fib-service.service';
 })
 export class NgFibonacciComponent implements OnInit {
 
-  input: FormGroup;
   value: string;
+  input: FormGroup;
 
   constructor(private service: FibServiceService, private fb: FormBuilder) { }
 
